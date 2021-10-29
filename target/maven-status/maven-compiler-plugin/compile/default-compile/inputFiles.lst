@@ -1,5 +1,7 @@
-/home/gsy/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/cardrpgfront/src/main/java/com/front/cardRPG/RequestDatabase.java
-/home/gsy/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/cardrpgfront/src/main/java/com/front/cardRPG/cardRPGController.java
-/home/gsy/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/cardrpgfront/src/main/java/com/front/cardRPG/UserDTO.java
-/home/gsy/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/cardrpgfront/src/main/java/com/front/cardRPG/ParamsDTO.java
-/home/gsy/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/cardrpgfront/src/main/java/com/front/cardRPG/CardrpgfrontApplication.java
+/home/gsy/Documents/workspace/cardrpgfront/src/main/java/dto/LoginDTO.java
+/home/gsy/Documents/workspace/cardrpgfront/src/main/java/dto/UserDTO.java
+/home/gsy/Documents/workspace/cardrpgfront/src/main/java/dto/SigninDTO.java
+/home/gsy/Documents/workspace/cardrpgfront/src/main/java/dto/CharactDTO.java
+/home/gsy/Documents/workspace/cardrpgfront/src/main/java/com/front/cardRPG/CardrpgfrontApplication.java
+/home/gsy/Documents/workspace/cardrpgfront/src/main/java/com/front/cardRPG/cardRPGController.java
+/home/gsy/Documents/workspace/cardrpgfront/src/main/java/com/front/cardRPG/RequestDatabase.java
